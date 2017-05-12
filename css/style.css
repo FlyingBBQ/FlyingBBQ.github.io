@@ -469,7 +469,7 @@ input:focus {
 	display: block;
 	margin-right: 20px;
 	margin-bottom: 10px;
-	width: 100px;
+	width: 110px;
 }
 .ios input[type="submit"]:hover
 {
@@ -493,7 +493,7 @@ input:focus {
 	font-weight: 600;
 	display: block;
 	margin-bottom: 10px;
-	width: 100px;
+	width: 110px;
 }
 .android input[type="submit"]:hover
 {
