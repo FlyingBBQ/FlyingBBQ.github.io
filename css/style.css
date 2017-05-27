@@ -613,6 +613,36 @@ span.rollover:hover {
         text-decoration:none;
 }
 /***********end_team*********/
+/* start details */
+.details{
+	text-align: left;
+	padding: 4%;
+}
+p.para1 {
+	font-size: 0.8725em;
+	color: #C4C4C4;
+	line-height: 1.8em;
+	font-family:'Open Sans', sans-serif;
+}
+.style a{
+	margin-bottom: 2%;
+	display: block;
+	color: #f47621;
+	font-size: 1.5em;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	font-family:'Open Sans', sans-serif;
+}
+p.para{
+	font-size: 0.9em;
+	color: #5A5E68;
+	line-height: 1.8em;
+	font-family:'Open Sans', sans-serif;
+	margin-bottom: 10px;
+	height: 300px;
+}
 /******responsive*******/
 @media only screen and (max-width:1440px)
 {
