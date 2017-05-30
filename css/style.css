@@ -558,12 +558,7 @@ span.rollover:hover {
 	margin-left:2%;
 	margin-right:2%;
 	text-align: center;
-}
-.images_1_of_4:first-child { 
-	margin-left: 0; 
-} 
-.images_1_of_4 {
-	width: 30%;
+	width: 29%;
 }
 .images_1_of_4  img{
 	max-width:100%;
